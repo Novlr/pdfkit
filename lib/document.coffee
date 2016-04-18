@@ -3,7 +3,7 @@ PDFDocument - represents an entire PDF document
 By Devon Govett
 ###
 
-stream = require 'stream'
+stream = require 'readable-stream'
 fs = require 'fs'
 PDFObject = require './object'
 PDFReference = require './reference'
