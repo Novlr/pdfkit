@@ -35,7 +35,8 @@
   },
   "dependencies": {
     "png-js": ">=0.1.0",
-    "linebreak": "~0.1.0"
+    "linebreak": "~0.1.0",
+    "readable-stream": "novlr/readable-stream"
   },
   "scripts": {
     "prepublish": "make js",
