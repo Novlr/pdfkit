@@ -49,5 +49,3 @@ class PDFFont
   
 module.exports = PDFFont
 
-StandardFont = require './font/standard'
-EmbeddedFont = require './font/embedded'
