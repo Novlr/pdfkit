@@ -36,7 +36,7 @@
   "dependencies": {
     "png-js": ">=0.1.0",
     "linebreak": "~0.1.0",
-    "readable-stream": "novlr/readable-stream"
+    "readable-stream": "git+https://git@github.com/novlr/readable-stream.git"
   },
   "scripts": {
     "prepublish": "make js",
